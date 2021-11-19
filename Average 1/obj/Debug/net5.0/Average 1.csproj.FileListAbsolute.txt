@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\Average 1.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\Average 1.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\Average 1.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\Average 1.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\Average 1.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\ref\Average 1.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\bin\Debug\net5.0\Average 1.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\ref\Average 1.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Average 1\obj\Debug\net5.0\Average 1.genruntimeconfig.cache

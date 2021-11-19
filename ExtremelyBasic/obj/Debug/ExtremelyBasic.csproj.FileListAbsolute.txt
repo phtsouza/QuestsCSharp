@@ -1,0 +1,7 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\bin\Debug\ExtremelyBasic.exe.config
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\bin\Debug\ExtremelyBasic.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\bin\Debug\ExtremelyBasic.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\obj\Debug\ExtremelyBasic.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\obj\Debug\ExtremelyBasic.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\obj\Debug\ExtremelyBasic.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\ExtremelyBasic\obj\Debug\ExtremelyBasic.pdb

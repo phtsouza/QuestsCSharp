@@ -1,0 +1,7 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\bin\Debug\Area of a Circle.exe.config
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\bin\Debug\Area of a Circle.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\bin\Debug\Area of a Circle.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\obj\Debug\Area of a Circle.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\obj\Debug\Area of a Circle.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\obj\Debug\Area of a Circle.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area of a Circle\obj\Debug\Area of a Circle.csproj.AssemblyReference.cache
