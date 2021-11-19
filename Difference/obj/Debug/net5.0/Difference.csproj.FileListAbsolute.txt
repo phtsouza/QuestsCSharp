@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\Difference.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\Difference.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\Difference.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\Difference.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\Difference.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\ref\Difference.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\bin\Debug\net5.0\Difference.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\ref\Difference.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Difference\obj\Debug\net5.0\Difference.genruntimeconfig.cache
