@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\Sphere.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\Sphere.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\Sphere.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\Sphere.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\Sphere.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\ref\Sphere.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\bin\Debug\net5.0\Sphere.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\ref\Sphere.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Sphere\obj\Debug\net5.0\Sphere.genruntimeconfig.cache

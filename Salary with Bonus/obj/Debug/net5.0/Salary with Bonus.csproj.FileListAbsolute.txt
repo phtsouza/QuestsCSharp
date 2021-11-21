@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\Salary with Bonus.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\Salary with Bonus.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\Salary with Bonus.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\Salary with Bonus.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\Salary with Bonus.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\ref\Salary with Bonus.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\bin\Debug\net5.0\Salary with Bonus.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\ref\Salary with Bonus.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Salary with Bonus\obj\Debug\net5.0\Salary with Bonus.genruntimeconfig.cache

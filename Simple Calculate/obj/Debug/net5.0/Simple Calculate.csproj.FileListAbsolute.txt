@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\Simple Calculate.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\Simple Calculate.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\Simple Calculate.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\Simple Calculate.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\Simple Calculate.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\ref\Simple Calculate.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\bin\Debug\net5.0\Simple Calculate.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\ref\Simple Calculate.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Simple Calculate\obj\Debug\net5.0\Simple Calculate.genruntimeconfig.cache
