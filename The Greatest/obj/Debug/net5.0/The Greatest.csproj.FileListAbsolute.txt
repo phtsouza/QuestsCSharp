@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\The Greatest.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\The Greatest.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\The Greatest.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\The Greatest.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\The Greatest.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\ref\The Greatest.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\bin\Debug\net5.0\The Greatest.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\ref\The Greatest.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\The Greatest\obj\Debug\net5.0\The Greatest.genruntimeconfig.cache

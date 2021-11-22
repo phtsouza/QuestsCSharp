@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\Distance.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\Distance.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\Distance.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\Distance.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\Distance.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\ref\Distance.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\bin\Debug\net5.0\Distance.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\ref\Distance.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance\obj\Debug\net5.0\Distance.genruntimeconfig.cache

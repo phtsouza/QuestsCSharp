@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\Fuel Spent.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\Fuel Spent.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\Fuel Spent.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\Fuel Spent.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\Fuel Spent.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\ref\Fuel Spent.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\bin\Debug\net5.0\Fuel Spent.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\ref\Fuel Spent.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Fuel Spent\obj\Debug\net5.0\Fuel Spent.genruntimeconfig.cache

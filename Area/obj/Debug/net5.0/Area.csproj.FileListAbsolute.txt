@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\Area.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\Area.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\Area.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\Area.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\Area.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\ref\Area.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\bin\Debug\net5.0\Area.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\ref\Area.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Area\obj\Debug\net5.0\Area.genruntimeconfig.cache

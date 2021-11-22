@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\Distance Between Two Points.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\Distance Between Two Points.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\Distance Between Two Points.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\Distance Between Two Points.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\Distance Between Two Points.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\ref\Distance Between Two Points.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\bin\Debug\net5.0\Distance Between Two Points.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\ref\Distance Between Two Points.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Distance Between Two Points\obj\Debug\net5.0\Distance Between Two Points.genruntimeconfig.cache

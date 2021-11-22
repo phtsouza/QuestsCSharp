@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\Consumption.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\Consumption.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\Consumption.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\Consumption.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\Consumption.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\ref\Consumption.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\bin\Debug\net5.0\Consumption.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\ref\Consumption.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Consumption\obj\Debug\net5.0\Consumption.genruntimeconfig.cache
