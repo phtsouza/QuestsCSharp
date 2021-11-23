@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\Age in Days.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\Age in Days.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\Age in Days.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\Age in Days.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\Age in Days.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\ref\Age in Days.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\bin\Debug\net5.0\Age in Days.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\ref\Age in Days.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Age in Days\obj\Debug\net5.0\Age in Days.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\Banknotes.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\Banknotes.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\Banknotes.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\Banknotes.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\Banknotes.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\ref\Banknotes.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\bin\Debug\net5.0\Banknotes.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\ref\Banknotes.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes\obj\Debug\net5.0\Banknotes.genruntimeconfig.cache

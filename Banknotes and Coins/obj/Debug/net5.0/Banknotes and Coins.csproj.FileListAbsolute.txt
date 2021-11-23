@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\Banknotes and Coins.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\Banknotes and Coins.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\Banknotes and Coins.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\Banknotes and Coins.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\Banknotes and Coins.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\ref\Banknotes and Coins.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\bin\Debug\net5.0\Banknotes and Coins.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\ref\Banknotes and Coins.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.genruntimeconfig.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Banknotes and Coins\obj\Debug\net5.0\Banknotes and Coins.csproj.AssemblyReference.cache

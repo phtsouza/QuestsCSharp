@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\Time Conversion.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\Time Conversion.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\Time Conversion.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\Time Conversion.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\Time Conversion.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\ref\Time Conversion.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\bin\Debug\net5.0\Time Conversion.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\ref\Time Conversion.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Time Conversion\obj\Debug\net5.0\Time Conversion.genruntimeconfig.cache
