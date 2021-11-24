@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\Dancing Sentence.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\Dancing Sentence.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\Dancing Sentence.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\Dancing Sentence.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\Dancing Sentence.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\ref\Dancing Sentence.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\bin\Debug\net5.0\Dancing Sentence.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\ref\Dancing Sentence.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Dancing Sentence\obj\Debug\net5.0\Dancing Sentence.genruntimeconfig.cache

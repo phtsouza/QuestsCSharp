@@ -8,47 +8,48 @@ namespace Banknotes_and_Coins
     {
         static void Main(string[] args)
         {
-            double n, restoCentavos;
+            double n;
             int nota100, nota50, nota20, nota10, nota5, nota2;
-            int moeda50, moeda25, moeda10, moeda05, moeda01;
-            int resto;
+            int moeda1, moeda50, moeda25, moeda10, moeda05, moeda01;
 
-            n = double.Parse(Console.ReadLine());
+            n = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            n += 0.001;
 
-            resto = (int)n/100;
-            restoCentavos = (n) % 100;
+            nota100 = (int)Math.Floor(n / 100.00);
+            n = n % 100;
 
-            nota100 = resto / 100;
-            resto = resto - (nota100 * 100);
+            nota50 = (int)Math.Floor(n / 50.00);
+            n = n % 50;
 
-            nota50 = resto / 50;
-            resto = resto - (nota50 * 50);
+            nota20 = (int)Math.Floor(n / 20.00);
+            n = n % 20;
 
-            nota20 = resto / 20;
-            resto = resto - (nota20 * 20);
+            nota10 = (int)Math.Floor(n / 10.00);
+            n = n % 10;
 
-            nota10 = resto / 10;
-            resto = resto - (nota10 * 10);
+            nota5 = (int)Math.Floor(n / 5.00);
+            n = n % 5;
 
-            nota5 = resto / 5;
-            resto = resto - (nota5 * 5);
+            nota2 = (int)Math.Floor(n / 2.00);
+            n = n % 2;
 
-            nota2 = resto / 2;
-            resto = resto - (nota2 * 2);
+            moeda1 = (int)Math.Floor(n / 1.00);
+            n = n % 1.00;
 
-            moeda50 = (int)(restoCentavos / 50);
-            restoCentavos = restoCentavos - (moeda50 * 50);
+            moeda50 = (int)Math.Floor(n / 0.50);
+            n = n % 0.50;
 
-            moeda25 = (int)(restoCentavos / 25.0);
-            restoCentavos = restoCentavos - (moeda25 * 25);
+            moeda25 = (int)Math.Floor(n / 0.25);
+            n = n % 0.25;
 
-            moeda10 = (int)(restoCentavos / 10.0);
-            restoCentavos = restoCentavos - (moeda10 * 10);
+            moeda10 = (int)Math.Floor(n / 0.10);
+            n = n % 0.10;
 
-            moeda05 = (int)(restoCentavos / 5.0);
-            restoCentavos = restoCentavos - (moeda05 * 5);
+            moeda05 = (int)Math.Floor(n / 0.05);
+            n = n % 0.05;
 
-            moeda01 = (int)restoCentavos;
+            moeda01 = (int)Math.Floor(n / 0.01);
+            n = n % 0.01;
 
             Console.WriteLine("NOTAS:");
             Console.WriteLine(nota100 + " nota(s) de R$ 100.00");
@@ -59,7 +60,7 @@ namespace Banknotes_and_Coins
             Console.WriteLine(nota2 + " nota(s) de R$ 2.00");
 
             Console.WriteLine("MOEDAS:");
-            Console.WriteLine(resto + " moeda(s) de R$ 1.00");
+            Console.WriteLine(moeda1 + " moeda(s) de R$ 1.00");
             Console.WriteLine(moeda50 + " moeda(s) de R$ 0.50");
             Console.WriteLine(moeda25 + " moeda(s) de R$ 0.25");
             Console.WriteLine(moeda10 + " moeda(s) de R$ 0.10");
