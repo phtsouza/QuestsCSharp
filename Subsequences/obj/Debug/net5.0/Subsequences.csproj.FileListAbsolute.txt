@@ -1,0 +1,16 @@
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\Subsequences.exe
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\Subsequences.deps.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\Subsequences.runtimeconfig.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\Subsequences.runtimeconfig.dev.json
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\Subsequences.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\ref\Subsequences.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\bin\Debug\net5.0\Subsequences.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.csproj.AssemblyReference.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.AssemblyInfoInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.AssemblyInfo.cs
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.csproj.CoreCompileInputs.cache
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\ref\Subsequences.dll
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.pdb
+C:\Users\phtso\source\repos\QuestoesBeeCrowd\Subsequences\obj\Debug\net5.0\Subsequences.genruntimeconfig.cache
